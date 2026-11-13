@@ -1,11 +1,20 @@
+<div align="center">
+
+<img src="docs/banner.svg" alt="biospectral banner" width="1000">
+
 # biospectral
+
+### Dirichlet L-function spectral analysis of DNA and protein sequences.
 
 [![CI](https://github.com/kostyk348/biospectral/actions/workflows/ci.yml/badge.svg)](https://github.com/kostyk348/biospectral/actions/workflows/ci.yml)
 [![Release](https://img.shields.io/github/v/release/kostyk348/biospectral?sort=semver&color=blue)](https://github.com/kostyk348/biospectral/releases)
 [![License](https://img.shields.io/badge/license-Apache-2.0-green)](https://github.com/kostyk348/biospectral/blob/master/LICENSE)
 [![Last commit](https://img.shields.io/github/last-commit/kostyk348/biospectral?branch=master)](https://github.com/kostyk348/biospectral/commits/master)
 
-Dirichlet L-function spectral analysis of DNA and protein sequences.
+</div>
+
+---
+
 
 A sequence over a finite alphabet is mapped to a real Dirichlet character
 indexed by position.  Its L-function on the critical line,
